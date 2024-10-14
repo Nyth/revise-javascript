@@ -23,3 +23,5 @@ console.log(price1);
 price1--;
 
 console.log(price1);
+
+

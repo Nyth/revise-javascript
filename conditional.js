@@ -15,10 +15,10 @@ if (chickenprice <= myMoney) {
           console.log('Kinbo');
 }
 if (chickenprice > myMoney) {
-          console.log('Allah Bachaw'); 
+          console.log('Allah Bachaw');
 }
 
-if (chickenprice < myMoney){
+if (chickenprice < myMoney) {
           console.log('I will eat');
 }
 else {
