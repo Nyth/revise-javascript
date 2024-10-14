@@ -1,5 +1,5 @@
-const isLeader = true;
-if (isLeader) {
+const isLeader = false;
+if (!isLeader) {
           console.log('leader ashche');
 }
 else {
